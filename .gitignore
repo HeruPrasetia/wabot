@@ -1,4 +1,12 @@
-node_modules/
-ChromeSession/
-debug.log
-.vscode/*
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
